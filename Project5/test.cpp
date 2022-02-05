@@ -6,6 +6,6 @@ public:
 };
 int main()
 {
-	std::string str = "abc";
+	std::string str = "abcdefgh";
 }
 //don't touch
